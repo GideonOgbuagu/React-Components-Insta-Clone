@@ -1,6 +1,6 @@
 import React from 'react';
 import './Comment.css';
-
+// console.log(props)
 const Comment = props => {
   return (
     <div className="comment-text">
